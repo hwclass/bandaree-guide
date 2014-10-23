@@ -34,7 +34,7 @@ A guide for visiting Germany as job interviewers.
 <ul>
 	<li>Turistik ve çok giriş - çıkışlı vizeye başvurmak.</li>
 	<li>Ticari vize almıyoruz çünkü iş görüşmesi için davet edilmemiz üzerine gidiyoruz; yer fıstığı ihracatı yapmıyoruz :)</li>
-	<li>Biyometrik fotoğrafı gerçekten güvenilen ve bilinen bir yerden temin etmek</li>
+	<li>Biyometrik fotoğrafı gerçekten güvenilen ve bilinen bir yerden temin etmek.</li>
 	<li>Belgeler, idata'ya teslim ettikten sonra kodun geçerli olup olmadığını sitelerindeki panelden kontrol etmek.</li>
 	<li>Konsolosluk pasaport ve vize başvurusunu değerlendirirken asıl zaman orada geçiyor çünkü idata belgeleri hemen gönderiyor.</li>
 	<li>Konsolosluktan telefon gelebilir, telefonlarımızı kontrol ediyoruz. Sorular ne kadar saçma olursa olsun düzgün ve anlaşılır cümlelerle, gerekirse "bürokratik" bir dil ile cevaplandırıyoruz. Hassasiyetleri nedeniyle "<i>iş görüşmesi</i>", "<i>bilişim ve yazılım sektörü</i>", "<i>karşılıklı mutabakat</i>", "<i>iş görüşmesi daveti</i>", vb. kelimeler tercih edilsin.</li>
