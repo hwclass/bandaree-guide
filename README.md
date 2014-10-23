@@ -1,5 +1,4 @@
 ##bandaree-guide v0.1.0
-==============
 
 A guide for visiting Germany as job interviewers.
 
